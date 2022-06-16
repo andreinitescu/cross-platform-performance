@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "UNOEmptyApp.Windows": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
