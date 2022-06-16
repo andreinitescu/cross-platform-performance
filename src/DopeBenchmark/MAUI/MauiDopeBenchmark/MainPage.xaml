@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage 
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="MauiDopeBenchmark.MainPage"
+    Title=".NET MAUI Benchmark">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="60" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <AbsoluteLayout 
+            x:Name="AbsoluteLayout"
+            Grid.Row="0" 
+            Grid.RowSpan="2" 
+            Grid.Column="0" />
+        <Grid 
+            x:Name="GridLayout" 
+            Grid.Row="0" 
+            Grid.RowSpan="2" 
+            Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+        </Grid>
+        <Label 
+            x:Name="DopesLabel" 
+            Grid.Row="0" Grid.Column="0"
+            Margin="0,20,0,0" 
+            Padding="7,7,7,7" 
+            BackgroundColor="Red"
+            TextColor="White"  
+            VerticalOptions="Start"
+            HorizontalOptions="Center" 
+            Text="Warming up..." 
+            IsVisible="False"/>
+        <HorizontalStackLayout 
+            x:Name="ButtonsLayout" 
+            Grid.Row="1" 
+            Grid.Column="0" 
+            VerticalOptions="End"
+            HorizontalOptions="Center"
+            Margin="6">
+            <Button 
+                x:Name="StopButton"
+                Text="Stop" 
+                BackgroundColor="Red"
+                HorizontalOptions="Center"
+                IsVisible="False"
+                Clicked="OnStopButtonClicked"/>
+            <Button
+                x:Name="StartAllButton"
+                Text="Start All" 
+                BackgroundColor="Green"
+                Clicked="OnStartAllClicked"/>
+            <Button 
+                x:Name="StartSTButton"
+                Text="Build" 
+                BackgroundColor="Blue"
+                Clicked="OnStartSTClicked"/>
+            <Button 
+                x:Name="StartGridST"
+                Text="Grid" 
+                BackgroundColor="Blue"
+                Clicked="OnStartGridSTClicked"/>
+            <Button 
+                x:Name="StartChangeST"
+                Text="Change"
+                BackgroundColor="Blue"
+                Clicked="OnStartChangeSTClicked"/>
+        </HorizontalStackLayout>
+    </Grid>
+</ContentPage>
