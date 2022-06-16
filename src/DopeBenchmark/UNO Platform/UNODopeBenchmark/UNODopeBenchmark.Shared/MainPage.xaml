@@ -1,0 +1,124 @@
+﻿<Page
+    x:Class="UNODopeBenchmark.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UNODopeBenchmark"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"    
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid 
+        Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="60" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Canvas 
+            x:Name="AbsoluteLayout"
+            Grid.Row="0"
+            Grid.RowSpan="2" 
+            Grid.Column="0">
+        </Canvas>
+        <ItemsControl 
+            x:Name="ItemsDope">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <Canvas />
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+            <ItemsControl.ItemTemplate>
+                <DataTemplate 
+                    x:DataType="local:BindingItem">
+                    <TextBlock 
+                        Text="Dope">
+                        <TextBlock.Foreground>
+                            <SolidColorBrush 
+                                Color="{x:Bind Color, Mode=OneWay, FallbackValue=Red}" />
+                        </TextBlock.Foreground>
+                        <TextBlock.RenderTransform>
+                            <CompositeTransform
+                                Rotation="{x:Bind Rotation, Mode=OneWay}" 
+                                TranslateX="{x:Bind Top, Mode=OneWay}" 
+                                TranslateY="{x:Bind Left, Mode=OneWay}" />
+                        </TextBlock.RenderTransform>
+                    </TextBlock>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+        <Grid
+            x:Name="grid" 
+            Grid.Row="0" 
+            Grid.RowSpan="2" 
+            Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+        </Grid>
+        <TextBlock 
+            x:Name="DopesTextBlock" 
+			Grid.Row="0" 
+			Grid.Column="0" 
+			Margin="0,40,0,0" 
+			Padding="7,7,7,7" 
+			Width="300"
+			Foreground="White"
+			VerticalAlignment="Top"
+			HorizontalAlignment="Center"
+			Text="Warming up..."
+			Visibility="Collapsed"/>
+        <StackPanel 
+            x:Name="ButtonsLayout" 
+			Orientation="Horizontal"
+			Grid.Row="1"
+			Grid.Column="0" 
+			VerticalAlignment="Bottom"
+            HorizontalAlignment="Center" 
+			Margin="5,0,0,25" >
+            <Button
+                x:Name="stop"
+				Content="Stop"
+				Background="Red" 
+				HorizontalAlignment="Center"
+                Visibility="Collapsed"
+				Click="OnStopClicked"/>
+            <StackPanel 
+                x:Name="startButtons"
+				Orientation="Horizontal"
+				VerticalAlignment="Bottom"
+                HorizontalAlignment="Center">
+                <Button
+                    x:Name="StartAll"
+					Content="All"
+					Background="Green" 
+					HorizontalAlignment="Center"
+					Click="OnStartAllClicked"/>
+                <Button 
+                    x:Name="StartST"
+					Content="@ Build"
+					Background="Blue"
+					Click="OnStartSTClicked"/>
+                <Button 
+                    x:Name="StartGridST"
+					Content="@ Binding 2" 
+					Background="Blue"
+					Click="OnStartGridSTClicked"/>
+                <Button 
+                    x:Name="StartChangeST"
+					Content="@ Change"
+					Background="Blue"
+					Click="OnStartChangeSTClicked"/>
+                <Button 
+                    x:Name="StartReuseST"
+					Content="@ Reuse 2"
+					Background="Blue"
+					Click="OnStartChangeReuseClicked"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>
