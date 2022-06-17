@@ -1,0 +1,13 @@
+06-17 18:11:22.082  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.mauiemptyapp/crc64c8d56660372ca61e.MainActivity: +370ms
+06-17 18:11:23.707  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.mauiemptyapp/crc64c8d56660372ca61e.MainActivity: +383ms
+06-17 18:11:25.327  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.mauiemptyapp/crc64c8d56660372ca61e.MainActivity: +393ms
+06-17 18:11:26.936  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.mauiemptyapp/crc64c8d56660372ca61e.MainActivity: +376ms
+06-17 18:11:28.542  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.mauiemptyapp/crc64c8d56660372ca61e.MainActivity: +364ms
+06-17 18:11:30.145  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.mauiemptyapp/crc64c8d56660372ca61e.MainActivity: +385ms
+06-17 18:11:31.770  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.mauiemptyapp/crc64c8d56660372ca61e.MainActivity: +390ms
+06-17 18:11:33.343  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.mauiemptyapp/crc64c8d56660372ca61e.MainActivity: +370ms
+06-17 18:11:34.930  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.mauiemptyapp/crc64c8d56660372ca61e.MainActivity: +383ms
+06-17 18:11:36.554  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.mauiemptyapp/crc64c8d56660372ca61e.MainActivity: +390ms
+Average(ms): 380.4
+Std Err(ms): 3.13120495088463
+Std Dev(ms): 9.90173946559111
