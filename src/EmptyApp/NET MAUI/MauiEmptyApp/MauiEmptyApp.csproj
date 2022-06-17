@@ -15,7 +15,7 @@
 		<ApplicationTitle>MauiEmptyApp</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.mauiemptyapp</ApplicationId>
+		<ApplicationId>com.jsuarezruiz.mauiemptyapp</ApplicationId>
 		<ApplicationIdGuid>5AD0F6B1-6F85-49B6-8BE6-C30D238251EB</ApplicationIdGuid>
 
 		<!-- Versions -->
