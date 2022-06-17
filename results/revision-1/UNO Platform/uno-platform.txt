@@ -1,0 +1,13 @@
+06-17 19:47:52.233  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.UNOEmptyApp/crc645973c0b215ff2590.MainActivity: +1s20ms
+06-17 19:47:54.559  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.UNOEmptyApp/crc645973c0b215ff2590.MainActivity: +1s16ms
+06-17 19:47:56.854  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.UNOEmptyApp/crc645973c0b215ff2590.MainActivity: +1s29ms
+06-17 19:47:59.171  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.UNOEmptyApp/crc645973c0b215ff2590.MainActivity: +1s26ms
+06-17 19:48:01.465  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.UNOEmptyApp/crc645973c0b215ff2590.MainActivity: +1s24ms
+06-17 19:48:03.767  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.UNOEmptyApp/crc645973c0b215ff2590.MainActivity: +1s6ms
+06-17 19:48:06.046  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.UNOEmptyApp/crc645973c0b215ff2590.MainActivity: +1s33ms
+06-17 19:48:08.372  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.UNOEmptyApp/crc645973c0b215ff2590.MainActivity: +1s49ms
+06-17 19:48:10.682  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.UNOEmptyApp/crc645973c0b215ff2590.MainActivity: +1s32ms
+06-17 19:48:12.979  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.UNOEmptyApp/crc645973c0b215ff2590.MainActivity: +1s26ms
+Average(ms): 1026.1
+Std Err(ms): 3.59459470748944
+Std Dev(ms): 11.3671065408534
