@@ -6,32 +6,36 @@
 
 ### Empty App
 
+![Empty App](images/emptyapp-banner.png)
+
 #### Startup time
 
-| Application | Framework           | Profiled AOT Time(ms) |
+| Android App | Framework           | Profiled AOT Time (ms) |
 |-------------|---------------------| ---------------------:|
-| EmptyApp    |  .NET MAUI          |                 - |
+| EmptyApp    |  .NET MAUI          |                 380.4 |
 | EmptyApp    |  Avalonia           |                 - |
 | EmptyApp    |  Flutter            |                 - |
-| EmptyApp    |  UNO Platform       |                 - |
+| EmptyApp    |  UNO Platform       |                 1026.1 |
 | EmptyApp    |  Xamarin.Forms      |                 - |
 
 
 #### Package size
 
-| Application | Framework           | Profiled AOT Time(MBs) |
+| Android App | Framework           | Profiled AOT Time (MBs) |
 |-------------|---------------------| ---------------------:|
-| EmptyApp    |  .NET MAUI          |                 - |
+| EmptyApp    |  .NET MAUI          |                 29.1 |
 | EmptyApp    |  Avalonia           |                 - |
 | EmptyApp    |  Flutter            |                 - |
-| EmptyApp    |  UNO Platform       |                 - |
+| EmptyApp    |  UNO Platform       |                 28.2 |
 | EmptyApp    |  Xamarin.Forms      |                 - |
 
 ### Chat App
 
+![Chat App](images/chatapp-banner.png)
+
 #### Startup time
 
-| Application | Framework           | Profiled AOT Time(ms) |
+| Android App | Framework           | Profiled AOT Time(ms) |
 |-------------|---------------------| ---------------------:|
 | EmptyApp    |  .NET MAUI          |                 - |
 | EmptyApp    |  Avalonia           |                 - |
@@ -42,7 +46,7 @@
 
 #### Package size
 
-| Application | Framework           | Profiled AOT Time(MBs) |
+| Android App | Framework           | Profiled AOT Time(MBs) |
 |-------------|---------------------| ---------------------:|
 | EmptyApp    |  .NET MAUI          |                 - |
 | EmptyApp    |  Avalonia           |                 - |
@@ -53,10 +57,14 @@
 
 ## Dope Test
 
-| Application | Framework           | - |
+![Dope Test](images/dopetest-banner.png)
+
+| Android App | Framework           | Build |
 |-------------|---------------------| ---------------------:|
-| EmptyApp    |  .NET MAUI          |                 - |
+| EmptyApp    |  .NET MAUI          |                 42.3 |
 | EmptyApp    |  Avalonia           |                 - |
 | EmptyApp    |  Flutter            |                 - |
-| EmptyApp    |  UNO Platform       |                 - |
-| EmptyApp    |  Xamarin.Forms      |                 - |
+| EmptyApp    |  UNO Platform       |                 91.9 |
+| EmptyApp    |  Xamarin.Forms      |                 68.5 |
+
+_(higher values are better)_
