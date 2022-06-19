@@ -58,22 +58,22 @@ _NOTE: A Poco F2 Pro has been used to obtain the data._
 
 | Android App | Framework           | Profiled AOT Time(ms) |
 |-------------|---------------------| ---------------------:|
-| EmptyApp    |  .NET MAUI          |                 - |
-| EmptyApp    |  Avalonia           |                 - |
-| EmptyApp    |  Flutter            |                 - |
-| EmptyApp    |  UNO Platform       |                 - |
-| EmptyApp    |  Xamarin.Forms      |                 - |
+| ChatApp    |  .NET MAUI          |                 - |
+| ChatApp    |  Avalonia           |                 - |
+| ChatApp    |  Flutter            |                 - |
+| ChatApp    |  UNO Platform       |                 - |
+| ChatApp    |  Xamarin.Forms      |                 - |
 
 
 #### Package size
 
 | Android App | Framework           | Profiled AOT Time(MBs) |
 |-------------|---------------------| ---------------------:|
-| EmptyApp    |  .NET MAUI          |                 - |
-| EmptyApp    |  Avalonia           |                 - |
-| EmptyApp    |  Flutter            |                 - |
-| EmptyApp    |  UNO Platform       |                 - |
-| EmptyApp    |  Xamarin.Forms      |                 - |
+| ChatApp    |  .NET MAUI          |                 - |
+| ChatApp    |  Avalonia           |                 - |
+| ChatApp    |  Flutter            |                 - |
+| ChatApp    |  UNO Platform       |                 - |
+| ChatApp    |  Xamarin.Forms      |                 - |
 
 
 ## Dope Test
@@ -86,11 +86,11 @@ Inspired by https://github.com/maxim-saplin/dopetest_flutter by Maxim Saplin.
 
 | Android App | Framework           | Build |
 |-------------|---------------------| ---------------------:|
-| EmptyApp    |  .NET MAUI          |                 42.3 |
-| EmptyApp    |  Avalonia           |                 - |
-| EmptyApp    |  Flutter            |                 - |
-| EmptyApp    |  UNO Platform       |                 91.9 |
-| EmptyApp    |  Xamarin.Forms      |                 68.5 |
+| DopeTest    |  .NET MAUI          |                 42.3 |
+| DopeTest    |  Avalonia           |                 - |
+| DopeTest    |  Flutter            |                 - |
+| DopeTest    |  UNO Platform       |                 91.9 |
+| DopeTest    |  Xamarin.Forms      |                 68.5 |
 
 _(higher values are better)_
 
