@@ -90,7 +90,7 @@ Inspired by https://github.com/maxim-saplin/dopetest_flutter by Maxim Saplin.
 |-------------|---------------------| ---------------------:|
 | DopeTest    |  .NET MAUI          |                 42.3 |
 | DopeTest    |  Avalonia           |                 - |
-| DopeTest    |  Flutter            |                 - |
+| DopeTest    |  Flutter            |                 11850.8 |
 | DopeTest    |  UNO Platform       |                 91.9 |
 | DopeTest    |  Xamarin.Forms      |                 68.5 |
 
@@ -98,6 +98,7 @@ _(higher values are better)_
 
 ![Dope Test](images/dope-test-build.png)
 
+![Dope Test](images/dope-test-build-2.png)
 ## Contribute
 
 _"The data in [insert device here] is different. Why isn't  [insert cross platform framework here] here?"_
