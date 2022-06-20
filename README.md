@@ -60,11 +60,11 @@ _(lower values are better)_
 
 | Android App | Framework           | Profiled AOT Time(ms) |
 |-------------|---------------------| ---------------------:|
-| ChatApp    |  .NET MAUI GA SR1          |                 716.9 |
+| ChatApp    |  .NET MAUI GA SR1          |                 [716.9](https://github.com/jsuarezruiz/cross-platform-performance/blob/main/results/revision-1/ChatApp/NET%20MAUI/dotnet-maui.txt) |
 | ChatApp    |  Avalonia 0.10.15           |                 - |
-| ChatApp    |  Flutter 3.0.2            |                 257.4 |
+| ChatApp    |  Flutter 3.0.2            |                 [257.](https://github.com/jsuarezruiz/cross-platform-performance/blob/main/results/revision-1/ChatApp/Flutter/flutter.txt)4 |
 | ChatApp    |  UNO Platform 4.3       |                 - |
-| ChatApp    |  Xamarin.Forms 5.0 SR11     |                 377.0 |
+| ChatApp    |  Xamarin.Forms 5.0 SR11     |                 [377.0](https://github.com/jsuarezruiz/cross-platform-performance/blob/main/results/revision-1/ChatApp/Xamarin.Forms/xamarin-forms.txt) |
 
 _(lower values are better)_
 
