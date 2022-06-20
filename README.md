@@ -32,7 +32,7 @@ _NOTE: A Poco F2 Pro has been used to obtain the data._
 |-------------|---------------------| ---------------------:|
 | EmptyApp    |  .NET MAUI GA SR1          |                 [380.4](https://github.com/jsuarezruiz/cross-platform-performance/blob/main/results/revision-1/EmptyApp/NET%20MAUI/dotnet-maui.txt) |
 | EmptyApp    |  Avalonia 0.10.15           |                 - |
-| EmptyApp    |  Flutter 3.0.2            |                 [239,7](https://github.com/jsuarezruiz/cross-platform-performance/blob/main/results/revision-1/EmptyApp/Flutter/flutter.txt) |
+| EmptyApp    |  Flutter 3.0.2            |                 [239.7](https://github.com/jsuarezruiz/cross-platform-performance/blob/main/results/revision-1/EmptyApp/Flutter/flutter.txt) |
 | EmptyApp    |  UNO Platform 4.3       |                 [1026.1](https://github.com/jsuarezruiz/cross-platform-performance/blob/main/results/revision-1/EmptyApp/UNO%20Platform/uno-platform.txt) |
 | EmptyApp    |  Xamarin.Forms 5.0 SR11     |                 [347.2](https://github.com/jsuarezruiz/cross-platform-performance/blob/main/results/revision-1/EmptyApp/Xamarin.Forms/xamarin-forms.txt) |
 
