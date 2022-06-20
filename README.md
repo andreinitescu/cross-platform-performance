@@ -58,7 +58,7 @@ _NOTE: A Poco F2 Pro has been used to obtain the data._
 
 | Android App | Framework           | Profiled AOT Time(ms) |
 |-------------|---------------------| ---------------------:|
-| ChatApp    |  .NET MAUI          |                 - |
+| ChatApp    |  .NET MAUI          |                 716.9 |
 | ChatApp    |  Avalonia           |                 - |
 | ChatApp    |  Flutter            |                 - |
 | ChatApp    |  UNO Platform       |                 - |
@@ -70,7 +70,7 @@ _NOTE: A Poco F2 Pro has been used to obtain the data._
 
 | Android App | Framework           | Profiled AOT Time(MBs) |
 |-------------|---------------------| ---------------------:|
-| ChatApp    |  .NET MAUI          |                 - |
+| ChatApp    |  .NET MAUI          |                 30.7 |
 | ChatApp    |  Avalonia           |                 - |
 | ChatApp    |  Flutter            |                 - |
 | ChatApp    |  UNO Platform       |                 - |
