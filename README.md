@@ -64,6 +64,7 @@ _NOTE: A Poco F2 Pro has been used to obtain the data._
 | ChatApp    |  UNO Platform       |                 - |
 | ChatApp    |  Xamarin.Forms      |                 - |
 
+![ChatApp Startup time](images/chat-app-startup.png)
 
 #### Package size
 
@@ -75,6 +76,7 @@ _NOTE: A Poco F2 Pro has been used to obtain the data._
 | ChatApp    |  UNO Platform       |                 - |
 | ChatApp    |  Xamarin.Forms      |                 - |
 
+![ChatApp Package size](images/chat-app-size.png)
 
 ## Dope Test
 
