@@ -36,6 +36,8 @@ _NOTE: A Poco F2 Pro has been used to obtain the data._
 | EmptyApp    |  UNO Platform       |                 1026.1 |
 | EmptyApp    |  Xamarin.Forms      |                 347.2 |
 
+_(lower values are better)_
+
 ![EmptyApp Startup time](images/empty-app-startup.png)
 
 #### Package size
@@ -63,6 +65,8 @@ _NOTE: A Poco F2 Pro has been used to obtain the data._
 | ChatApp    |  Flutter            |                 257.4 |
 | ChatApp    |  UNO Platform       |                 - |
 | ChatApp    |  Xamarin.Forms      |                 377.0 |
+
+_(lower values are better)_
 
 ![ChatApp Startup time](images/chat-app-startup.png)
 
