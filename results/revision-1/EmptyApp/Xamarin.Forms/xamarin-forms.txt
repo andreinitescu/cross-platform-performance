@@ -1,0 +1,13 @@
+06-20 13:02:50.320  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.xamarinformsemptyapp/crc64e8fd651c9d8965bd.MainActivity: +357ms
+06-20 13:02:51.843  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.xamarinformsemptyapp/crc64e8fd651c9d8965bd.MainActivity: +343ms
+06-20 13:02:53.333  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.xamarinformsemptyapp/crc64e8fd651c9d8965bd.MainActivity: +345ms
+06-20 13:02:54.835  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.xamarinformsemptyapp/crc64e8fd651c9d8965bd.MainActivity: +323ms
+06-20 13:02:56.358  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.xamarinformsemptyapp/crc64e8fd651c9d8965bd.MainActivity: +350ms
+06-20 13:02:57.910  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.xamarinformsemptyapp/crc64e8fd651c9d8965bd.MainActivity: +347ms
+06-20 13:02:59.451  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.xamarinformsemptyapp/crc64e8fd651c9d8965bd.MainActivity: +352ms
+06-20 13:03:00.955  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.xamarinformsemptyapp/crc64e8fd651c9d8965bd.MainActivity: +340ms
+06-20 13:03:02.458  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.xamarinformsemptyapp/crc64e8fd651c9d8965bd.MainActivity: +361ms
+06-20 13:03:03.996  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.xamarinformsemptyapp/crc64e8fd651c9d8965bd.MainActivity: +354ms
+Average(ms): 347.2
+Std Err(ms): 3.37243729865113
+Std Dev(ms): 10.6645831298431

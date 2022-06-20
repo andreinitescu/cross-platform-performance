@@ -34,7 +34,7 @@ _NOTE: A Poco F2 Pro has been used to obtain the data._
 | EmptyApp    |  Avalonia           |                 - |
 | EmptyApp    |  Flutter            |                 239,7 |
 | EmptyApp    |  UNO Platform       |                 1026.1 |
-| EmptyApp    |  Xamarin.Forms      |                 - |
+| EmptyApp    |  Xamarin.Forms      |                 347.2 |
 
 ![EmptyApp Startup time](images/empty-app-startup.png)
 
@@ -46,7 +46,7 @@ _NOTE: A Poco F2 Pro has been used to obtain the data._
 | EmptyApp    |  Avalonia           |                 - |
 | EmptyApp    |  Flutter            |                 16.3 |
 | EmptyApp    |  UNO Platform       |                 28.2 |
-| EmptyApp    |  Xamarin.Forms      |                 - |
+| EmptyApp    |  Xamarin.Forms      |                 45.0 |
 
 ![EmptyApp Package size](images/empty-app-size.png)
 
@@ -62,7 +62,7 @@ _NOTE: A Poco F2 Pro has been used to obtain the data._
 | ChatApp    |  Avalonia           |                 - |
 | ChatApp    |  Flutter            |                 257.4 |
 | ChatApp    |  UNO Platform       |                 - |
-| ChatApp    |  Xamarin.Forms      |                 - |
+| ChatApp    |  Xamarin.Forms      |                 377.0 |
 
 ![ChatApp Startup time](images/chat-app-startup.png)
 
@@ -74,7 +74,7 @@ _NOTE: A Poco F2 Pro has been used to obtain the data._
 | ChatApp    |  Avalonia           |                 - |
 | ChatApp    |  Flutter            |                 19.6 |
 | ChatApp    |  UNO Platform       |                 - |
-| ChatApp    |  Xamarin.Forms      |                 - |
+| ChatApp    |  Xamarin.Forms      |                 46.7 |
 
 ![ChatApp Package size](images/chat-app-size.png)
 
