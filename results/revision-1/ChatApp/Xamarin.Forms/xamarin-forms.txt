@@ -11,3 +11,26 @@
 Average(ms): 377
 Std Err(ms): 2.81266974796386
 Std Dev(ms): 8.89444270941756
+
+App Summary
+                       Pss(KB)                        Rss(KB)
+                        ------                         ------
+           Java Heap:     2788                          13740
+         Native Heap:    20324                          21384
+                Code:    31448                         103764
+               Stack:      444                            452
+            Graphics:    36032                          36032
+       Private Other:    19932
+              System:     5400
+             Unknown:                                   22132
+
+           TOTAL PSS:   116368            TOTAL RSS:   197504       TOTAL SWAP PSS:      310
+
+ Objects
+               Views:      120         ViewRootImpl:        1
+         AppContexts:        6           Activities:        1
+              Assets:       31        AssetManagers:        0
+       Local Binders:       15        Proxy Binders:       38
+       Parcel memory:        3         Parcel count:       13
+    Death Recipients:        1      OpenSSL Sockets:        0
+            WebViews:        0
