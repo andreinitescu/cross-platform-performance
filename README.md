@@ -32,7 +32,7 @@ _NOTE: A Poco F2 Pro has been used to obtain the data._
 |-------------|---------------------| ---------------------:|
 | EmptyApp    |  .NET MAUI          |                 380.4 |
 | EmptyApp    |  Avalonia           |                 - |
-| EmptyApp    |  Flutter            |                 - |
+| EmptyApp    |  Flutter            |                 239,7 |
 | EmptyApp    |  UNO Platform       |                 1026.1 |
 | EmptyApp    |  Xamarin.Forms      |                 - |
 
@@ -44,7 +44,7 @@ _NOTE: A Poco F2 Pro has been used to obtain the data._
 |-------------|---------------------| ---------------------:|
 | EmptyApp    |  .NET MAUI          |                 29.1 |
 | EmptyApp    |  Avalonia           |                 - |
-| EmptyApp    |  Flutter            |                 - |
+| EmptyApp    |  Flutter            |                 16.3 |
 | EmptyApp    |  UNO Platform       |                 28.2 |
 | EmptyApp    |  Xamarin.Forms      |                 - |
 
