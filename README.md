@@ -2,14 +2,14 @@
 
 ![Cross Platform frameworks benchmarks](images/perf-banner.png)
 
-This repository is a set of tests and **benchmarks** to analyze the evolution in different aspects related to performance (boot time, memory consumption, etc.) in different **cross platform frameworks**.
+This repository is a set of tests and **benchmarks** to analyze the evolution in different aspects related to performance (boot time, package size, memory consumption, layout performance, rendering perfomance, etc.) in different **cross platform frameworks**.
 
 The following frameworks are measured in this repository:
-- .NET MAUI
-- Avalonia
-- Flutter
-- UNO Platform
-- Xamarin.Forms
+- [.NET MAUI](https://github.com/dotnet/maui)
+- [Avalonia](https://github.com/AvaloniaUI/Avalonia)
+- [Flutter](https://github.com/flutter/flutter)
+- [UNO Platform](https://github.com/unoplatform/uno)
+- [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms)
 
 _(**Work in progress**, missing examples, missing metrics, etc.)_
 
@@ -30,11 +30,11 @@ _NOTE: A Poco F2 Pro has been used to obtain the data._
 
 | Android App | Framework           | Profiled AOT Time (ms) |
 |-------------|---------------------| ---------------------:|
-| EmptyApp    |  .NET MAUI          |                 380.4 |
-| EmptyApp    |  Avalonia           |                 - |
-| EmptyApp    |  Flutter            |                 239,7 |
-| EmptyApp    |  UNO Platform       |                 1026.1 |
-| EmptyApp    |  Xamarin.Forms      |                 347.2 |
+| EmptyApp    |  .NET MAUI GA SR1          |                 380.4 |
+| EmptyApp    |  Avalonia 0.10.15           |                 - |
+| EmptyApp    |  Flutter 3.0.2            |                 239,7 |
+| EmptyApp    |  UNO Platform 4.3       |                 1026.1 |
+| EmptyApp    |  Xamarin.Forms 5.0 SR11     |                 347.2 |
 
 _(lower values are better)_
 
@@ -44,11 +44,11 @@ _(lower values are better)_
 
 | Android App | Framework           | Profiled AOT Time (MBs) |
 |-------------|---------------------| ---------------------:|
-| EmptyApp    |  .NET MAUI          |                 29.1 |
-| EmptyApp    |  Avalonia           |                 - |
-| EmptyApp    |  Flutter            |                 16.3 |
-| EmptyApp    |  UNO Platform       |                 28.2 |
-| EmptyApp    |  Xamarin.Forms      |                 45.0 |
+| EmptyApp    |  .NET MAUI GA SR1          |                 29.1 |
+| EmptyApp    |  Avalonia 0.10.15           |                 - |
+| EmptyApp    |  Flutter 3.0.2            |                 16.3 |
+| EmptyApp    |  UNO Platform 4.3       |                 28.2 |
+| EmptyApp    |  Xamarin.Forms 5.0 SR11    |                 45.0 |
 
 ![EmptyApp Package size](images/empty-app-size.png)
 
@@ -60,11 +60,11 @@ _(lower values are better)_
 
 | Android App | Framework           | Profiled AOT Time(ms) |
 |-------------|---------------------| ---------------------:|
-| ChatApp    |  .NET MAUI          |                 716.9 |
-| ChatApp    |  Avalonia           |                 - |
-| ChatApp    |  Flutter            |                 257.4 |
-| ChatApp    |  UNO Platform       |                 - |
-| ChatApp    |  Xamarin.Forms      |                 377.0 |
+| ChatApp    |  .NET MAUI GA SR1          |                 716.9 |
+| ChatApp    |  Avalonia 0.10.15           |                 - |
+| ChatApp    |  Flutter 3.0.2            |                 257.4 |
+| ChatApp    |  UNO Platform 4.3       |                 - |
+| ChatApp    |  Xamarin.Forms 5.0 SR11     |                 377.0 |
 
 _(lower values are better)_
 
@@ -74,11 +74,11 @@ _(lower values are better)_
 
 | Android App | Framework           | Profiled AOT Time(MBs) |
 |-------------|---------------------| ---------------------:|
-| ChatApp    |  .NET MAUI          |                 30.7 |
-| ChatApp    |  Avalonia           |                 - |
-| ChatApp    |  Flutter            |                 19.6 |
-| ChatApp    |  UNO Platform       |                 - |
-| ChatApp    |  Xamarin.Forms      |                 46.7 |
+| ChatApp    |  .NET MAUI GA SR1          |                 30.7 |
+| ChatApp    |  Avalonia 0.10.15           |                 - |
+| ChatApp    |  Flutter 3.0.2            |                 19.6 |
+| ChatApp    |  UNO Platform 4.3       |                 - |
+| ChatApp    |  Xamarin.Forms 5.0 SR11     |                 46.7 |
 
 ![ChatApp Package size](images/chat-app-size.png)
 
@@ -92,11 +92,11 @@ Inspired by https://github.com/maxim-saplin/dopetest_flutter by Maxim Saplin.
 
 | Android App | Framework           | Build |
 |-------------|---------------------| ---------------------:|
-| DopeTest    |  .NET MAUI          |                 42.3 |
-| DopeTest    |  Avalonia           |                 - |
-| DopeTest    |  Flutter            |                 11850.8 |
-| DopeTest    |  UNO Platform       |                 91.9 |
-| DopeTest    |  Xamarin.Forms      |                 68.5 |
+| DopeTest    |  .NET MAUI GA SR1         |                 42.3 |
+| DopeTest    |  Avalonia 0.10.15           |                 - |
+| DopeTest    |  Flutter 3.0.2            |                 11850.8 |
+| DopeTest    |  UNO Platform 4.3       |                 91.9 |
+| DopeTest    |  Xamarin.Forms 5.0 SR11      |                 68.5 |
 
 _(higher values are better)_
 
