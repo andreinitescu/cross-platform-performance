@@ -1,0 +1,13 @@
+06-20 10:32:50.683  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.flutteremptyapp.flutter_empty_app/.MainActivity: +246ms
+06-20 10:32:52.123  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.flutteremptyapp.flutter_empty_app/.MainActivity: +250ms
+06-20 10:32:53.612  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.flutteremptyapp.flutter_empty_app/.MainActivity: +253ms
+06-20 10:32:55.030  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.flutteremptyapp.flutter_empty_app/.MainActivity: +216ms
+06-20 10:32:56.506  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.flutteremptyapp.flutter_empty_app/.MainActivity: +233ms
+06-20 10:32:57.994  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.flutteremptyapp.flutter_empty_app/.MainActivity: +253ms
+06-20 10:32:59.484  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.flutteremptyapp.flutter_empty_app/.MainActivity: +248ms
+06-20 10:33:00.890  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.flutteremptyapp.flutter_empty_app/.MainActivity: +225ms
+06-20 10:33:02.327  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.flutteremptyapp.flutter_empty_app/.MainActivity: +234ms
+06-20 10:33:03.750  1956  2003 I ActivityTaskManager: Displayed com.jsuarezruiz.flutteremptyapp.flutter_empty_app/.MainActivity: +239ms
+Average(ms): 239.7
+Std Err(ms): 3.97785536857907
+Std Dev(ms): 12.5790831674384
