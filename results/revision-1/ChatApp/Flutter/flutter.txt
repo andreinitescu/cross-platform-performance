@@ -1,0 +1,13 @@
+06-20 11:11:27.909  1956  2003 I ActivityTaskManager: Displayed com.example.flutter_chat_app_challenge/.MainActivity: +271ms
+06-20 11:11:29.296  1956  2003 I ActivityTaskManager: Displayed com.example.flutter_chat_app_challenge/.MainActivity: +236ms
+06-20 11:11:30.769  1956  2003 I ActivityTaskManager: Displayed com.example.flutter_chat_app_challenge/.MainActivity: +259ms
+06-20 11:11:32.177  1956  2003 I ActivityTaskManager: Displayed com.example.flutter_chat_app_challenge/.MainActivity: +250ms
+06-20 11:11:33.632  1956  2003 I ActivityTaskManager: Displayed com.example.flutter_chat_app_challenge/.MainActivity: +277ms
+06-20 11:11:35.051  1956  2003 I ActivityTaskManager: Displayed com.example.flutter_chat_app_challenge/.MainActivity: +266ms
+06-20 11:11:36.474  1956  2003 I ActivityTaskManager: Displayed com.example.flutter_chat_app_challenge/.MainActivity: +256ms
+06-20 11:11:37.898  1956  2003 I ActivityTaskManager: Displayed com.example.flutter_chat_app_challenge/.MainActivity: +248ms
+06-20 11:11:39.303  1956  2003 I ActivityTaskManager: Displayed com.example.flutter_chat_app_challenge/.MainActivity: +257ms
+06-20 11:11:40.738  1956  2003 I ActivityTaskManager: Displayed com.example.flutter_chat_app_challenge/.MainActivity: +254ms
+Average(ms): 257.4
+Std Err(ms): 3.74225125351632
+Std Dev(ms): 11.8340375377318

@@ -60,7 +60,7 @@ _NOTE: A Poco F2 Pro has been used to obtain the data._
 |-------------|---------------------| ---------------------:|
 | ChatApp    |  .NET MAUI          |                 716.9 |
 | ChatApp    |  Avalonia           |                 - |
-| ChatApp    |  Flutter            |                 - |
+| ChatApp    |  Flutter            |                 257.4 |
 | ChatApp    |  UNO Platform       |                 - |
 | ChatApp    |  Xamarin.Forms      |                 - |
 
@@ -72,7 +72,7 @@ _NOTE: A Poco F2 Pro has been used to obtain the data._
 |-------------|---------------------| ---------------------:|
 | ChatApp    |  .NET MAUI          |                 30.7 |
 | ChatApp    |  Avalonia           |                 - |
-| ChatApp    |  Flutter            |                 - |
+| ChatApp    |  Flutter            |                 19.6 |
 | ChatApp    |  UNO Platform       |                 - |
 | ChatApp    |  Xamarin.Forms      |                 - |
 
