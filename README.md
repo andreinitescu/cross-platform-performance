@@ -63,7 +63,7 @@ _(lower values are better)_
 | ChatApp    |  .NET MAUI GA SR1          |                 [716.9](https://github.com/jsuarezruiz/cross-platform-performance/blob/main/results/revision-1/ChatApp/NET%20MAUI/dotnet-maui.txt) |
 | ChatApp    |  Avalonia 0.10.15           |                 - |
 | ChatApp    |  Flutter 3.0.2            |                 [257.4](https://github.com/jsuarezruiz/cross-platform-performance/blob/main/results/revision-1/ChatApp/Flutter/flutter.txt) |
-| ChatApp    |  UNO Platform 4.3       |                 1910.2 |
+| ChatApp    |  UNO Platform 4.3       |                 [1910.2](https://github.com/jsuarezruiz/cross-platform-performance/blob/main/results/revision-1/ChatApp/UNO%20Platform/uno-platform.txt) |
 | ChatApp    |  Xamarin.Forms 5.0 SR11     |                 [377.0](https://github.com/jsuarezruiz/cross-platform-performance/blob/main/results/revision-1/ChatApp/Xamarin.Forms/xamarin-forms.txt) |
 
 _(lower values are better)_
