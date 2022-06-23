@@ -89,7 +89,7 @@ _(lower values are better)_
 | ChatApp    |  .NET MAUI GA SR1          |                 240.876 |
 | ChatApp    |  Avalonia 0.10.15           |                 - |
 | ChatApp    |  Flutter 3.0.2            |                 175.596 |
-| ChatApp    |  UNO Platform 4.3       |                 - |
+| ChatApp    |  UNO Platform 4.3       |                 235.116 |
 | ChatApp    |  Xamarin.Forms 5.0 SR11     |                 197.504 |
 
 _(lower values are better)_

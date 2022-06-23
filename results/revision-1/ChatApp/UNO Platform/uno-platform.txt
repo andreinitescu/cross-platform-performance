@@ -11,3 +11,18 @@
 Average(ms): 1910.2
 Std Err(ms): 10.6872717649444
 Std Dev(ms): 33.796120750432
+
+
+App Summary
+                       Pss(KB)                        Rss(KB)
+                        ------                         ------
+           Java Heap:     3516                          14416
+         Native Heap:    33692                          34852
+                Code:    22856                          95936
+               Stack:      780                            788
+            Graphics:    35724                          35724
+       Private Other:    50204
+              System:     5128
+             Unknown:                                   53400
+
+           TOTAL PSS:   151900            TOTAL RSS:   235116       TOTAL SWAP PSS:      365
