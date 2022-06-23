@@ -1,0 +1,13 @@
+06-23 18:56:37.110  1956  2003 I ActivityTaskManager: Displayed com.companyname.ChatApp/crc64d2ee2fdb1305494d.MainActivity: +1s972ms
+06-23 18:56:40.328  1956  2003 I ActivityTaskManager: Displayed com.companyname.ChatApp/crc64d2ee2fdb1305494d.MainActivity: +1s885ms
+06-23 18:56:43.510  1956  2003 I ActivityTaskManager: Displayed com.companyname.ChatApp/crc64d2ee2fdb1305494d.MainActivity: +1s900ms
+06-23 18:56:46.722  1956  2003 I ActivityTaskManager: Displayed com.companyname.ChatApp/crc64d2ee2fdb1305494d.MainActivity: +1s952ms
+06-23 18:56:49.832  1956  2003 I ActivityTaskManager: Displayed com.companyname.ChatApp/crc64d2ee2fdb1305494d.MainActivity: +1s855ms
+06-23 18:56:53.038  1956  2003 I ActivityTaskManager: Displayed com.companyname.ChatApp/crc64d2ee2fdb1305494d.MainActivity: +1s926ms
+06-23 18:56:56.269  1956  2003 I ActivityTaskManager: Displayed com.companyname.ChatApp/crc64d2ee2fdb1305494d.MainActivity: +1s892ms
+06-23 18:56:59.475  1956  2003 I ActivityTaskManager: Displayed com.companyname.ChatApp/crc64d2ee2fdb1305494d.MainActivity: +1s900ms
+06-23 18:57:02.653  1956  2003 I ActivityTaskManager: Displayed com.companyname.ChatApp/crc64d2ee2fdb1305494d.MainActivity: +1s899ms
+06-23 18:57:05.868  1956  2003 I ActivityTaskManager: Displayed com.companyname.ChatApp/crc64d2ee2fdb1305494d.MainActivity: +1s921ms
+Average(ms): 1910.2
+Std Err(ms): 10.6872717649444
+Std Dev(ms): 33.796120750432
