@@ -116,7 +116,6 @@ _(higher values are better)_
 
 ![Dope Test](images/dope-test-build.png)
 
-![Dope Test](images/dope-test-build-2.png)
 ## Contribute
 
 _"The data in [insert device here] is different. Why isn't  [insert cross platform framework here] here?"_
