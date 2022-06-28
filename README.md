@@ -108,7 +108,7 @@ Inspired by https://github.com/maxim-saplin/dopetest_flutter by Maxim Saplin.
 |-------------|---------------------| ---------------------:|
 | DopeTest    |  .NET MAUI GA SR1         |                 42.3 |
 | DopeTest    |  Avalonia 0.10.15           |                 - |
-| DopeTest    |  Flutter 3.0.2            |                 11850.8 |
+| DopeTest    |  Flutter 3.0.2            |                   - |
 | DopeTest    |  UNO Platform 4.3       |                 91.9 |
 | DopeTest    |  Xamarin.Forms 5.0 SR11      |                 68.5 |
 
